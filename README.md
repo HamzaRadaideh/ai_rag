@@ -12,7 +12,7 @@ RAG connects LLMs to real-time data stores, allowing retrieval of specific, up-t
 <br>
 
 
-#Graduation Project 
+# Graduation Project 
 
 # COMPS
 
