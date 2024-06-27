@@ -5,7 +5,7 @@ This project explores integrating Retrieval-Augmented Generation (RAG) and vecto
 The process of taking a pre-trained model and adapting it to a specific task by training it further on a smaller, task-specific dataset. This technique allows the model to achieve better performance on the target task while leveraging the knowledge it has already acquired.
 
 # RAG (Retrieval Augmented Generation):
-
+RAG connects LLMs to real-time data stores, allowing retrieval of specific, up-to-date data to generate more accurate and trustworthy responses. This approach mitigates the limitations of traditional LLMs, which rely on static training data and lack source transparency.
 
 <br>
 <br>
