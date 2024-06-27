@@ -1,3 +1,6 @@
+# Abstract:
+This project explores integrating Retrieval-Augmented Generation (RAG) and vector search to enhance large language models (LLMs) like GPT-4 and LLaMA 3. These technologies address limitations in traditional LLMs, such as outdated information and lack of source transparency. We demonstrate these concepts through a Python-based code analysis project, utilizing tools like LLaMA 3 and Ollama, deployed via scalable infrastructure.
+
 # Fine-Tuning:
 The process of taking a pre-trained model and adapting it to a specific task by training it further on a smaller, task-specific dataset. This technique allows the model to achieve better performance on the target task while leveraging the knowledge it has already acquired.
 
