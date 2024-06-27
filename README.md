@@ -15,8 +15,8 @@
 
 # Github team members:
 
-- Hamza Radaideh:
-- Ahmad Elwan:
-- Mohammad Subeihi:
-- Khaled Samara: 
+- Hamza Radaideh: https://github.com/HamzaRadaideh
+- Ahmad Elwan: https://github.com/AhmadElwan
+- Mohammad Subeihi: https://github.com/mosubehi
+- Khaled Samara: https://github.com/Khaled3303
 
