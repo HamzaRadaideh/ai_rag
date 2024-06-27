@@ -7,6 +7,12 @@ The process of taking a pre-trained model and adapting it to a specific task by 
 # RAG (Retrieval Augmented Generation):
 RAG connects LLMs to real-time data stores, allowing retrieval of specific, up-to-date data to generate more accurate and trustworthy responses. This approach mitigates the limitations of traditional LLMs, which rely on static training data and lack source transparency.
 
+* Problems with Current LLMs:
+Traditional LLMs, such as GPT-4, are constrained by static training data, leading to outdated responses and lack of source citation, which hampers verification and accuracy.
+* How RAG Works:
+RAG involves connecting an LLM to a real-time data store. Queries are processed by retrieving relevant, current data, which is then integrated into the LLM's response generation, ensuring answers are accurate and verifiable.
+
+
 <br>
 <br>
 <br>
