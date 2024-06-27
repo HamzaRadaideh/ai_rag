@@ -14,7 +14,7 @@ RAG connects LLMs to real-time data stores, allowing retrieval of specific, up-t
 
 # Graduation Project 
 
-# COMPS Team
+# COMPS Team 💻
 
 # Github team members:
 
